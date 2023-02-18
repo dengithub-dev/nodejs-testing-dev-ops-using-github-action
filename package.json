@@ -1,0 +1,19 @@
+{
+  "name": "websockets",
+  "version": "1.0.0",
+  "description": "A demo for testing in github action",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Dennis Balinhawang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "0.0.1-security",
+    "jest": "^29.4.3",
+    "querystring": "^0.2.1",
+    "ws": "^8.8.1"
+  }
+}
